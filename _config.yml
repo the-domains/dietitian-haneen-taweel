@@ -1,4 +1,3 @@
-layout_spectrum: 0.7178584763314575
 typography_spectrum: 0.0643709257710725
 color:
   brandStrength: 0.6366577129811049
@@ -11,4 +10,6 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+layout_spectrum: 0.7178584763314575
 name: Dietitian Haneen Taweel
+title: Diet & Nutrition
